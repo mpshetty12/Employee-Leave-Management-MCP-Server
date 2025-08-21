@@ -1,2 +1,4 @@
-# Employee-Leave-Management-MCP-Server
-Employee-Leave-Management-MCP-Server connected with Claude AI
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
